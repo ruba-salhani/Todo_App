@@ -32,7 +32,6 @@ dependencies:
   path:
   path_provider:
   flutter_riverpod:
-  get:
   intl:
 
 dev_dependencies:
